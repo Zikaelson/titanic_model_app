@@ -160,3 +160,19 @@ Then click **Predict**.
 - Titanic dataset: Seaborn
 - ML framework: scikit-learn
 - App styling: Bootstrap 5
+
+---
+
+## 📸 Demo Screenshot (Optional)
+
+If you'd like to showcase what the app looks like:
+
+1. Open your app in a browser: `http://127.0.0.1:5000`
+2. Take a screenshot
+3. Save it in your project folder as `screenshot.png`
+4. Add this Markdown to display it:
+
+```markdown
+## 🖼️ Demo
+
+![App Screenshot](screenshot.png)

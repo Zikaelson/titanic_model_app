@@ -176,3 +176,25 @@ If you'd like to showcase what the app looks like:
 ## 🖼️ Demo
 
 ![App Screenshot](screenshot.png)
+
+
+Take note!
+git version adter downloading on cmd = git --version
+you must be in your project folder like i did on vscode terminal = cd C:\Users\ezekj\Downloads\titanic_model_app
+https://github.com/new = titanic_model_app
+git init
+git add .
+git config --global user.name "Ezekiel Joaquim" (first time)
+git config --global user.email "your_email@example.com" (first time)
+git commit -m "Initial commit: Titanic survival ML web app"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/titanic_model_app.git
+git push -u origin main
+
+
+After changes:
+git status
+git add ReadMe.md
+git commit -m "Added demo screenshot and license section to README"
+git push origin main
+
